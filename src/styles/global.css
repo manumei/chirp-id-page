@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+@theme {
+  /* Light theme colors */
+  --color-light-text: #11181c;
+  --color-light-background: #fff;
+  --color-light-tint: #8bc199;
+  --color-light-icon: #687076;
+  --color-light-tab-icon-default: #687076;
+  --color-light-tab-icon-selected: #8bc199;
+  --color-light-text-secondary: #687076;
+  --color-light-text-tertiary: #889096;
+  --color-light-background-elevated: #f8f9fa;
+  --color-light-background-pressed: #f1f3f5;
+  --color-light-border: #e6e8eb;
+  --color-light-border-strong: #c5cbd0;
+  --color-light-link: #0e7490;
+  --color-light-link-visited: #7752be;
+  --color-light-link-hover: #0891b2;
+  --color-light-success: #16a34a;
+  --color-light-warning: #f59e0b;
+  --color-light-error: #dc2626;
+
+  /* Dark theme colors */
+  --color-dark-text: #ecedee;
+  --color-dark-background: #151718;
+  --color-dark-tint: #5da871;
+  --color-dark-icon: #9ba1a6;
+  --color-dark-tab-icon-default: #9ba1a6;
+  --color-dark-tab-icon-selected: #5da871;
+  --color-dark-text-secondary: #9ba1a6;
+  --color-dark-text-tertiary: #7d848a;
+  --color-dark-background-elevated: #1a1d1e;
+  --color-dark-background-pressed: #252829;
+  --color-dark-border: #313538;
+  --color-dark-border-strong: #4c5155;
+  --color-dark-link: #22d3ee;
+  --color-dark-link-visited: #a78bfa;
+  --color-dark-link-hover: #67e8f9;
+  --color-dark-success: #4ade80;
+  --color-dark-warning: #fbbf24;
+  --color-dark-error: #f87171;
+}
